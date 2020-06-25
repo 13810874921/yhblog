@@ -1,0 +1,14 @@
+.ad-main{
+    margin-top:.5rem;
+}
+.ad-detail{
+    padding:.3rem;
+    background:#fff;
+    border-radius:.3rem;
+}
+.ad-detail:not(:last-child){
+    border-bottom:1px dashed #ccc;
+}
+.ad-detail img{
+    border-radius:.3rem;
+}

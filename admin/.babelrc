@@ -1,0 +1,11 @@
+{
+    "presets": [],
+    "plugins":[
+        [
+            "import",
+            {
+                "labraryName":"antd"
+            }
+        ]
+    ]
+}

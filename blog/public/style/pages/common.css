@@ -1,0 +1,42 @@
+body{
+    background:#f6f6f6;
+}
+.common-left{
+    background:#fff;
+    margin-right:.5rem;
+    padding:.3rem;
+    border-radius:.3rem;
+}
+.common-right{
+    border-radius:.3rem;
+}
+.common-main{
+    margin-top:.5rem;
+}
+.common-box{
+    background:#fff;
+    margin-top:.5rem;
+    padding:.3rem;
+    border-radius:.3rem;
+}
+.list-title{
+    font-size:1.3rem;
+    color: #1e90ff;
+    padding: 0 0.5rem;
+}
+.list-context{
+    color:#777;
+    padding:.5rem;
+}
+.list-icon{
+    padding:.5rem 0;
+    color:#AAA;
+}
+.list-icon span{
+    display: inline-block;
+    padding: 0 10px;
+}
+.breadcrumb{
+    padding:.3rem;
+    border-bottom:1px dashed #ddd;
+}
